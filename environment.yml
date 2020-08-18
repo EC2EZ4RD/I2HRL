@@ -1,0 +1,8 @@
+name: h-baselines
+
+dependencies:
+    - python==3.6.8
+    - numpy==1.16.0
+    - pip:
+        - redis==2.10.6
+        - gym==0.10.8
